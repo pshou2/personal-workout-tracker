@@ -1,1 +1,1 @@
-# personal-workout-tracker
+# Personal Workout Tracker
